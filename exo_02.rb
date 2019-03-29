@@ -1,0 +1,2 @@
+puts("Bonjour, monde !")
+puts("Et avec une voix sexy, ça donne : Bonjour, monde !") # la différence entre print et et puts est que chaque puts renvoie automatiquement à la ligne  alors print ne le fait pas
